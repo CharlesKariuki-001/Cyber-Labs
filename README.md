@@ -59,23 +59,23 @@ This repo is a mix of **hands-on labs, scripts, write-ups, and experiments** —
 Cyber-Labs/
 
 │── labs/ # CTF write-ups, lab guides, hands-on exercises
-|
+
 │── tools/ # Pentest & automation scripts (safe examples)
-|
+
 │── ai-security/ # ML models, notebooks for threat detection
-|
+
 │── docs/ # Research notes, architecture diagrams, reports
-|
+
 │── reports/ # Example vulnerability reports (sanitized)
-|
+
 │── assets/ # Images, banners, diagrams
-|
+
 │── README.md
-|
+
 │── requirements.txt
-|
+
 │── .gitignore
-|
+
 │── LICENSE
 
 
