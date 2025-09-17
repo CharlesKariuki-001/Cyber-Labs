@@ -82,7 +82,7 @@ CyberShield-Labs/
 ## ⚡ Getting Started (quick)
 1. Clone:
 ```bash
-git clone https://github.com/CharlesKariuki-001/CyberShield-Labs.git
+git clone https://github.com/CharlesKariuki-001/Cyber-Labs.git
 cd Cyber-Labs
 
 ---
@@ -119,4 +119,6 @@ This project focuses on ethical hacking, defense strategies, and AI in security.
 <p align="center"> <a href="mailto:yourname@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://x.com/yourhandle"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://github.com/CharlesKariuki-001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> </p>
 
 ---
+
+
 <p align="center"> 💭 <i>"Breaking systems to secure them. Building intelligence to protect them."</i> </p> 
