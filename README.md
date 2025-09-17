@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ CyberShield-Labs</h1>
+<h1 align="center">🛡️ Cyber-Labs</h1>
 <p align="center">
   <i>A personal cybersecurity playground for pentesting, network defense, and AI-driven security experiments.</i>
 </p>
