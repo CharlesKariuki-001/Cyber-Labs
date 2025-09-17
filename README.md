@@ -77,13 +77,6 @@ CyberShield-Labs/
 
 │── LICENSE
 
----
-
-## ⚡ Getting Started (quick)
-1. Clone:
-```bash
-git clone https://github.com/CharlesKariuki-001/Cyber-Labs.git
-cd Cyber-Labs
 
 ---
 
